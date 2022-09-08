@@ -36,7 +36,7 @@ the table is going to describe about the cities and locations to visit in that c
 
  ## Quotes
  >1.Start before you’re ready *Author:Steven Pressfield*
+ 
  >2.The first draft is just you telling yourself the story *Author:Terry Pratchett*
 
  ----
- 
