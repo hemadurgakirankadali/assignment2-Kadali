@@ -8,33 +8,15 @@
 ---
 
 ### Airport that is closest to the museum
+
 1. After watching the collections in museum
-2. Take a safe ride from Metropolitan Museum of Art of New York City to Newyork La Guardia
-3. It will take 5miles to reach the airport
-4. After 21min of journey we reach the airport 
+2. Take a safe ride from The Frick Collection to Newyork La Guardia
+3. It will take 9miles to reach the airport
+4. After 23min of journey we reach the airport 
+
 
 #### Below are the list of item to be seen 
-* Ancient Near Eastern art
-* Arts of Africa, Oceania, and the Americas 
-* Asian art of Bronze
-* Chola Statue,Egyptian art 
-
-## creating table that contains cities which are recommended to visit
-
-The below table decribes the famous locations in cities that have to be visited
-
-| Name of the city | Loaction to visit in city                | Amount of time to spent in location |
-|------------------| -----------------------------------------|-------------------------------------|
-|    Texas         | Big bend national park                   |    11hours
-|    Dallas        |  The Sixth Floor Museum at Dealey Plaza  |    10hours
-|    Newyork       | Statue of liberty                        |    3 hours
-|   Chicago        | Field museum                             |    8 hours
-
-## Qotes Section
-
-> 1. If four things are followed - having a great aim, acquiring knowledge, hard work, and perseverance - then anything can be achieved.
-Author: "A. P. J. Abdul Kalam"
->2. “Nothing is permanent in this wicked world, not even our troubles.”
-Author: "Charlie Chaplin"
-
-**
+* Henry Clay Frick House
+* Old Master paintings 
+* European fine and decorative arts
+* The collection features some of the best-known paintings by major European artists as well as numerous works of sculpture and porcelain.
