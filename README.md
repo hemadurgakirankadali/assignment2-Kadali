@@ -36,7 +36,22 @@ the table is going to describe about the cities and locations to visit in that c
 
  ## Quotes
  >1.Start before you’re ready *Author:Steven Pressfield*
- 
+
  >2.The first draft is just you telling yourself the story *Author:Terry Pratchett*
 
  ----
+## code fencing
+
+>Lazy Loading Images
+answer: <https://stackoverflow.com/questions/5582739/lazy-loading-images>
+
+```
+
+$thisTab.find('img[data-src]').each(function(img) {
+    var $img = $(img);
+    $img.attr('src', $img.attr('data-src'))
+        .removeAttr('data-src');
+});
+
+```
+snipper link:<https://css-tricks.com/snippets/javascript/lazy-loading-images/>
