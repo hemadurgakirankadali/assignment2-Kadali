@@ -20,3 +20,17 @@
 * Old Master paintings 
 * European fine and decorative arts
 * The collection features some of the best-known paintings by major European artists as well as numerous works of sculpture and porcelain.
+
+---
+## table cities and locations to be visited
+
+the table is going to describe about the cities and locations to visit in that city
+
+|cityname|locations to visit in that city|time to spend in the city|
+|--------|-------------------------------|-------------------------|
+|bhimavaram|avg multiplex|3hrs|
+|tanuku|library|1hr|
+|hyderabad|golconda|4hrs|
+|banglore|eletronicity|2hrs|
+----
+ 
